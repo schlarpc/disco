@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/schlarpc/python-base-flake",
+  "commit": "363fb9340b0e5153f137bce50fb411171647966f",
+  "checkout": "template",
+  "context": {
+    "cookiecutter": {
+      "project_name": "disco",
+      "module_name": "disco",
+      "author_name": "Chaz Schlarp",
+      "author_email": "schlarpc@gmail.com",
+      "_template": "https://github.com/schlarpc/python-base-flake",
+      "_output_dir": "/home/schlarpc",
+      "_repo_dir": "/home/schlarpc/.cookiecutters/python-base-flake",
+      "_checkout": "template"
+    }
+  },
+  "directory": null
+}
