@@ -8,7 +8,7 @@ authors = [ "Chaz Schlarp <schlarpc@gmail.com>" ]
 # not automatically used by poetry2nix - https://github.com/nix-community/poetry2nix/issues/570
 python = "^3.11"
 anthropic = "^0.34.1"
-openai = "^1.42.0"
+openai = "^1.43.0"
 pillow = "^10.4.0"
 # https://github.com/elevenlabs/elevenlabs-python/issues/334
 elevenlabs = "1.5.0"
